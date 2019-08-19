@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/DB-TimeLine/static/css/main.47384fa3.chunk.css",
+    "main.css": "/DB-TimeLine/static/css/main.257c8b8b.chunk.css",
     "main.js": "/DB-TimeLine/static/js/main.5daf6c7d.chunk.js",
     "main.js.map": "/DB-TimeLine/static/js/main.5daf6c7d.chunk.js.map",
     "runtime~main.js": "/DB-TimeLine/static/js/runtime~main.6ccdaa16.js",
@@ -9,9 +9,9 @@
     "static/js/2.6f4ae84e.chunk.js": "/DB-TimeLine/static/js/2.6f4ae84e.chunk.js",
     "static/js/2.6f4ae84e.chunk.js.map": "/DB-TimeLine/static/js/2.6f4ae84e.chunk.js.map",
     "index.html": "/DB-TimeLine/index.html",
-    "precache-manifest.875cfc2eed5b7f37911d35336fa13b7f.js": "/DB-TimeLine/precache-manifest.875cfc2eed5b7f37911d35336fa13b7f.js",
+    "precache-manifest.96b9b4b42a4dd1ee08844d2792f5738d.js": "/DB-TimeLine/precache-manifest.96b9b4b42a4dd1ee08844d2792f5738d.js",
     "service-worker.js": "/DB-TimeLine/service-worker.js",
     "static/css/2.e8d046a2.chunk.css.map": "/DB-TimeLine/static/css/2.e8d046a2.chunk.css.map",
-    "static/css/main.47384fa3.chunk.css.map": "/DB-TimeLine/static/css/main.47384fa3.chunk.css.map"
+    "static/css/main.257c8b8b.chunk.css.map": "/DB-TimeLine/static/css/main.257c8b8b.chunk.css.map"
   }
 }
