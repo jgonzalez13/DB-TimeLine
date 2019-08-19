@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.sass"],"names":[],"mappings":"AAAA,KACI,YAAa,CACb,sBAAuB,CACvB,kBAAmB","file":"main.54bb7435.chunk.css","sourcesContent":["body {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n }    //background: red\n"]}
