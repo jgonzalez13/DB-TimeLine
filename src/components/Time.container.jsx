@@ -1,15 +1,21 @@
 import React from 'react'
 import { Timeline } from 'antd'
+import { fechas } from '../data/fechas'
 
 import TimeItem from './TimeItem.component'
 
 const Time = () => (
-    <Timeline mode="alternate">
-        <Timeline.Item><TimeItem titulo='soy el titulo' descripcion='soy la descripcion' /></Timeline.Item>
-        <Timeline.Item>Solve initial network problems 2015-09-01</Timeline.Item>
-        <Timeline.Item>Technical testing 2015-09-01</Timeline.Item>
-        <Timeline.Item>Network problems being solved 2015-09-01</Timeline.Item>
-    </Timeline>
+    <div className="time-conatiner">
+        <Timeline mode="alternate">
+            {
+                fechas.map((p, i) =>
+                    <Timeline.Item key={i}>
+                        <TimeItem titulo={p.titulo} descripcion={p.descripcion} n={i} />
+                    </Timeline.Item>
+                )
+            }
+        </Timeline>
+    </div>
 )
 
 export default Time
